@@ -1,0 +1,1 @@
+# magento2-module-custom-entity-attribute-set
